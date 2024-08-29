@@ -1,4 +1,4 @@
-class Person {
+abstract class Person {
   String name;
   String address;
   String email;
